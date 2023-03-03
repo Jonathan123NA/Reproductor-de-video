@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reproductor de Video</string>
+    <string name="tv_title">Nombre del Video</string>
+    <string name="tv_duration">00:00</string>
+</resources>
